@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Boot.dev log files
+game_state.jsonl
+game_events.jsonl
+
+# Editor configurations
+.vscode/
+.idea/
